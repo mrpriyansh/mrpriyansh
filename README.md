@@ -5,11 +5,14 @@
 
 I'm a Competitive Programmer with a keen interest in Web Development and also have a hands-on experience in golang, Kafka, elasticsearch. Always been interested to learn more about different tools & techniques to enhance my skills & knowledge. I can describe myself as a Team player, a self-motivated person who loves challenges that come along the way.
 
-- 🌱 I’m currently exploring **Golang, TypeScript**
+
+<h3 align="left"> Quick Bugs </h3>
 
 - 💬 Ask me about **JS, ReactJs, NodeJs, Golang, Competitive Programming**
 
-- 📫 How to reach me **gaharana98@gmail.com**
+- 💬 Discuss new technologies
+
+- 📫 To reach me, use **gaharana98@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ESUmx7uFjD_PYb7Z8oot7NuFDmBkKx56/view)
 
@@ -24,5 +27,5 @@ I'm a Competitive Programmer with a keen interest in Web Development and also ha
 <a href="https://auth.geeksforgeeks.org/user/mrpriyansh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mrpriyansh" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrpriyansh&show_icons=true&locale=en&layout=compact" alt="mrpriyansh" /></p>
+
 
