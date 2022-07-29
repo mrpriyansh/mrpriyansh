@@ -20,11 +20,6 @@ I'm a Competitive Programmer with a keen interest in Web Development and also ha
 <p align="left">
 <a href="https://linkedin.com/in/mrpriyansh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrpriyansh" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/priyansh-gaharana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="priyansh-gaharana" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mr_priyansh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mr_priyansh" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mr_priyansh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mr_priyansh" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mr_priyansh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mr_priyansh" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/mr_priyansh" target="blank"><img align="center" src="https://static-fastly.hackerearth.com/static/hackerearth/images/logo/HE_identity_white.png" alt="mr_priyansh" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/mrpriyansh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mrpriyansh" height="30" width="40" /></a>
 </p>
 
 
