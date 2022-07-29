@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrpriyansh&label=Profile%20views&color=0e75b6&style=flat" alt="mrpriyansh" /> </p>
 
 
-- 🌱 I’m currently learning **Golang, TypeScript**
+- 🌱 I’m currently exploring **Golang, TypeScript**
 
 - 💬 Ask me about **JS, ReactJs, NodeJs, Golang, Competitive Programming**
 
