@@ -10,7 +10,7 @@ I'm a Competitive Programmer with a keen interest in Web Development and also ha
 
 - 💬 Ask me about **JS, ReactJs, NodeJs, Golang, Competitive Programming**
 
-- 💬 Discuss new technologies
+- 💬 Discuss new technologies & solutions
 
 - 📫 To reach me, use **gaharana98@gmail.com**
 
