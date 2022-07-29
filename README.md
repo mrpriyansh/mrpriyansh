@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **gaharana98@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ESUmx7uFjD_PYb7Z8oot7NuFDmBkKx56/view](https://drive.google.com/file/d/1ESUmx7uFjD_PYb7Z8oot7NuFDmBkKx56/view)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1ESUmx7uFjD_PYb7Z8oot7NuFDmBkKx56/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
